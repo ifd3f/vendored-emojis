@@ -7,16 +7,38 @@
     let
       pkgs = nixpkgs.legacyPackages.x86_64-linux;
       lib = pkgs.lib;
-      emojidata = with builtins; fromJSON (readFile ./sources.lock);
+      emojidata = with builtins;
+        (mapAttrs (k:
+          { pack_path, url, ... }: {
+            inherit url;
+            src = ././${pack_path};
+          }) (fromJSON (readFile ./sources.lock))) // {
+            codemascots.src = ./custom/codemascots;
+            dinocursor.src = ./custom/dinocursor;
+            minecraft = {
+              url = "https://emoji.gg/emojis/minecraft";
+              src = ./custom/minecraft;
+            };
+            misc.src = ./custom/misc;
+            parrots = {
+              url = "https://emoji.gg/pack/7302-party-parrots";
+              src = ./custom/parrots;
+            };
+            verified = {
+              url = "https://emoji.gg/pack/5595-verified";
+              src = ./custom/verified;
+            };
+          };
     in {
       overlays.default = final: prev: {
-        akkoma-emoji = self.packages.${prev.system}.akkoma-emoji;
+        akkoma-emoji = prev.akkoma-emoji
+          // self.packages.${prev.system}.akkoma-emoji;
       };
     } // flake-utils.lib.eachDefaultSystem (system: {
       packages = {
-        akkoma-emoji = lib.mapAttrs (k: v:
-          let src = ././${v.pack_path};
-          in pkgs.stdenvNoCC.mkDerivation {
+        akkoma-emoji = lib.mapAttrs (k:
+          { url ? null, src }:
+          pkgs.stdenvNoCC.mkDerivation {
             inherit src;
 
             pname = "akkoma-emoji-${k}";
@@ -46,17 +68,17 @@
 
             meta = {
               description = "${k} emoji pack";
-              homepage = v.url;
+              homepage = url;
             };
           }) emojidata;
 
         # Useful for testing a full build.
-        all-akkoma-emoji = pkgs.linkFarm "all-akkoma-emoji"
+        akkoma-emoji-all = pkgs.linkFarm "akkoma-emoji-all"
           (lib.mapAttrsToList (name: path: { inherit name path; })
             self.packages.${system}.akkoma-emoji);
       };
 
       devShells.default = with pkgs;
-        mkShell { buildInputs = [ python python3Packages.requests ]; };
+        mkShell { buildInputs = [ python3 python3Packages.requests ]; };
     });
 }

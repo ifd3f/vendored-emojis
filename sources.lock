@@ -95,17 +95,17 @@
         "pack_path": "packs/buns",
         "hash": "sha256-05jTsGrNTuyI7fudHJ6qBe/fiO0nCPihuSF/MnTV3r4="
     },
+    "catgirls": {
+        "url": "https://fedi.absturztau.be/emoji-packs/Cat_girls_Emoji.zip",
+        "zip_path": "download/catgirls.zip",
+        "pack_path": "packs/catgirls",
+        "hash": "sha256-/h0IjpoN1/nlwduATEmrrknmiLCBiuomEDcfolHRZhg="
+    },
     "cats": {
         "url": "https://fedi.absturztau.be/emoji-packs/cats.zip",
         "zip_path": "download/cats.zip",
         "pack_path": "packs/cats",
         "hash": "sha256-vPcIfrUXNN3Cr38JdK4dFrU21r4pvOQfbUr3OrCnHfc="
-    },
-    "dragn": {
-        "url": "https://fedi.absturztau.be/emoji-packs/dragn.zip",
-        "zip_path": "download/dragn.zip",
-        "pack_path": "packs/dragn",
-        "hash": "sha256-qfXaxRvYx7EFy8+KLEikVkh5OyWhJY0wVuEQ1qVng78="
     },
     "cirno": {
         "url": "https://fedi.absturztau.be/emoji-packs/cirno.zip",
@@ -124,6 +124,12 @@
         "zip_path": "download/distrowos.zip",
         "pack_path": "packs/distrowos",
         "hash": "sha256-bXoKLDWLHxjPJv01MQFAbPmvQCSPSJCRo1HHeDi3y4I="
+    },
+    "dragn": {
+        "url": "https://fedi.absturztau.be/emoji-packs/dragn.zip",
+        "zip_path": "download/dragn.zip",
+        "pack_path": "packs/dragn",
+        "hash": "sha256-qfXaxRvYx7EFy8+KLEikVkh5OyWhJY0wVuEQ1qVng78="
     },
     "eggplants": {
         "url": "https://fedi.absturztau.be/emoji-packs/eggplants.zip",
