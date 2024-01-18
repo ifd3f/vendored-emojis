@@ -1,0 +1,266 @@
+{
+    "acnh": {
+        "url": "https://emoji-repo.absturztau.be/repo/acnh.zip",
+        "zip_path": "download/acnh.zip",
+        "pack_path": "packs/acnh",
+        "hash": "sha256-2JBVjJoHt6PsKgQxzrd6ZBen+5LdPSGzlggXKX758zA="
+    },
+    "akko": {
+        "url": "https://emoji-repo.absturztau.be/repo/akko.zip",
+        "zip_path": "download/akko.zip",
+        "pack_path": "packs/akko",
+        "hash": "sha256-M5Uh7MZIHIpWWTdcjxU4LhrD0vjUurmEMTzkDfk6O6I="
+    },
+    "anim2b": {
+        "url": "https://emoji-repo.absturztau.be/repo/anim2b.zip",
+        "zip_path": "download/anim2b.zip",
+        "pack_path": "packs/anim2b",
+        "hash": "sha256-FbkFhzxmHWQx9EvTn5AqDYiZUg9AcPtHslZvArN0XSM="
+    },
+    "aqua": {
+        "url": "https://emoji-repo.absturztau.be/repo/aqua.zip",
+        "zip_path": "download/aqua.zip",
+        "pack_path": "packs/aqua",
+        "hash": "sha256-AAc2I64GFNg8CnlGfptftoF9B5bwBUaFBlu1HvNc2hY="
+    },
+    "arknights": {
+        "url": "https://emoji-repo.absturztau.be/repo/arknights.zip",
+        "zip_path": "download/arknights.zip",
+        "pack_path": "packs/arknights",
+        "hash": "sha256-Cq7vtC7Vo51lpw7Cac9wbW4P8rkTFnEaP2x2g4BimJs="
+    },
+    "arknights_ext": {
+        "url": "https://emoji-repo.absturztau.be/repo/arknights_ext.zip",
+        "zip_path": "download/arknights_ext.zip",
+        "pack_path": "packs/arknights_ext",
+        "hash": "sha256-H2DOqUryL/wjLrmlqH9XfCyzTyFWJ6cYbXy6uNqrifU="
+    },
+    "asuka": {
+        "url": "https://emoji-repo.absturztau.be/repo/asuka.zip",
+        "zip_path": "download/asuka.zip",
+        "pack_path": "packs/asuka",
+        "hash": "sha256-xYLMHofPvk2OTj+zCoS4DZks5RqLXyI5o7XKYMGXEOs="
+    },
+    "awoo": {
+        "url": "https://emoji-repo.absturztau.be/repo/awoo.zip",
+        "zip_path": "download/awoo.zip",
+        "pack_path": "packs/awoo",
+        "hash": "sha256-nrdJHLZck9qa7jTowL8tp8XSR76T6sOh7MnVEEmhqno="
+    },
+    "axolotl": {
+        "url": "https://emoji-repo.absturztau.be/repo/axolotl.zip",
+        "zip_path": "download/axolotl.zip",
+        "pack_path": "packs/axolotl",
+        "hash": "sha256-8lNcl15jaNcSn4qCHXbx7DaVj70FTq2kq6LIbUbAD/I="
+    },
+    "blobbee": {
+        "url": "https://emoji-repo.absturztau.be/repo/blobcat.zip",
+        "zip_path": "download/blobbee.zip",
+        "pack_path": "packs/blobbee",
+        "hash": "sha256-FjGwH7kyf0rSTBLWnrcKVOyDqvSE/jrA4cIjC/8mt7Q="
+    },
+    "blobcatnomeverything": {
+        "url": "https://emoji-repo.absturztau.be/repo/blobcatnomeverything.zip",
+        "zip_path": "download/blobcatnomeverything.zip",
+        "pack_path": "packs/blobcatnomeverything",
+        "hash": "sha256-rH+tTAMcKXu42DMxKji3Ye3qsJ8OBRWE4XQswGZMIUI="
+    },
+    "blobs.gg": {
+        "url": "https://git.pleroma.social/pleroma/emoji-index/-/raw/master/packs/blobs_gg.zip",
+        "zip_path": "download/blobs.gg.zip",
+        "pack_path": "packs/blobs.gg",
+        "hash": "sha256-OhLzoYFnjVs1hKYglUEbDWCjNRGBNZENh5kg+K3lpX8="
+    },
+    "blobshark": {
+        "url": "https://emoji-repo.absturztau.be/repo/blobshark.zip",
+        "zip_path": "download/blobshark.zip",
+        "pack_path": "packs/blobshark",
+        "hash": "sha256-nVUcuyz6PIt8dwVsZHHA967HUMeGCFwWsaV7i1aNRbs="
+    },
+    "brain": {
+        "url": "https://emoji-repo.absturztau.be/repo/brain.zip",
+        "zip_path": "download/brain.zip",
+        "pack_path": "packs/brain",
+        "hash": "sha256-CTSJNr9ty1F5FaUEWLMCqXh6v0p+Vmfn1AJzxamThOo="
+    },
+    "bun": {
+        "url": "https://emoji-repo.absturztau.be/repo/bun.zip",
+        "zip_path": "download/bun.zip",
+        "pack_path": "packs/bun",
+        "hash": "sha256-+jivGcG3bg4CAqTZVyghPeSDZZIhSblV0YcFYfwUVbY="
+    },
+    "buns": {
+        "url": "https://git.pleroma.social/pleroma/emoji-index/-/raw/master/packs/buns.zip",
+        "zip_path": "download/buns.zip",
+        "pack_path": "packs/buns",
+        "hash": "sha256-05jTsGrNTuyI7fudHJ6qBe/fiO0nCPihuSF/MnTV3r4="
+    },
+    "catgirls": {
+        "url": "https://emoji-repo.absturztau.be/repo/Cat_girls_Emoji.zip",
+        "zip_path": "download/catgirls.zip",
+        "pack_path": "packs/catgirls",
+        "hash": "sha256-/h0IjpoN1/nlwduATEmrrknmiLCBiuomEDcfolHRZhg="
+    },
+    "cats": {
+        "url": "https://emoji-repo.absturztau.be/repo/cats.zip",
+        "zip_path": "download/cats.zip",
+        "pack_path": "packs/cats",
+        "hash": "sha256-vPcIfrUXNN3Cr38JdK4dFrU21r4pvOQfbUr3OrCnHfc="
+    },
+    "cirno": {
+        "url": "https://emoji-repo.absturztau.be/repo/cirno.zip",
+        "zip_path": "download/cirno.zip",
+        "pack_path": "packs/cirno",
+        "hash": "sha256-tC0Eg0ak9JINOisHuc3yln8bPj4rq37QIy+S/aC2SUk="
+    },
+    "comfy": {
+        "url": "https://emoji-repo.absturztau.be/repo/comfy.zip",
+        "zip_path": "download/comfy.zip",
+        "pack_path": "packs/comfy",
+        "hash": "sha256-gjqYyQFIOkTve2wqxajhmqWa4RGSVSIM8MYd9oOKOA0="
+    },
+    "distrowos": {
+        "url": "https://emoji-repo.absturztau.be/repo/distrowos.zip",
+        "zip_path": "download/distrowos.zip",
+        "pack_path": "packs/distrowos",
+        "hash": "sha256-bXoKLDWLHxjPJv01MQFAbPmvQCSPSJCRo1HHeDi3y4I="
+    },
+    "dragn": {
+        "url": "https://emoji-repo.absturztau.be/repo/dragn.zip",
+        "zip_path": "download/dragn.zip",
+        "pack_path": "packs/dragn",
+        "hash": "sha256-qfXaxRvYx7EFy8+KLEikVkh5OyWhJY0wVuEQ1qVng78="
+    },
+    "eggplants": {
+        "url": "https://emoji-repo.absturztau.be/repo/eggplants.zip",
+        "zip_path": "download/eggplants.zip",
+        "pack_path": "packs/eggplants",
+        "hash": "sha256-m5F3DQqRhh2VM9olOnqhPLwRNpClSqITFApi9njdXOo="
+    },
+    "hacker": {
+        "url": "https://emoji-repo.absturztau.be/repo/hacker.zip",
+        "zip_path": "download/hacker.zip",
+        "pack_path": "packs/hacker",
+        "hash": "sha256-w/XCCAMHGN1hxE3G8knOXiLgFq4jJHtzALHvwI38LbY="
+    },
+    "kizumaai": {
+        "url": "https://emoji-repo.absturztau.be/repo/kizumaai.zip",
+        "zip_path": "download/kizumaai.zip",
+        "pack_path": "packs/kizumaai",
+        "hash": "sha256-0i94UYEW65xPD1g7gW6Kw2uU1BbnAY7DKCR/1G3zhzk="
+    },
+    "kyaru": {
+        "url": "https://emoji-repo.absturztau.be/repo/kyaru.zip",
+        "zip_path": "download/kyaru.zip",
+        "pack_path": "packs/kyaru",
+        "hash": "sha256-ftDkVAFI8tTLW/mJ1dp4SIDt7WsGDrks8akrT+NvuEM="
+    },
+    "longfox": {
+        "url": "https://git.pleroma.social/pleroma/emoji-index/-/raw/master/packs/longfox.zip",
+        "zip_path": "download/longfox.zip",
+        "pack_path": "packs/longfox",
+        "hash": "sha256-KrXyWkY6g2oJdXntCnOhkG7MBZvKXiaPwa+dLqOlrMU="
+    },
+    "mashiro": {
+        "url": "https://emoji-repo.absturztau.be/repo/mashiro.zip",
+        "zip_path": "download/mashiro.zip",
+        "pack_path": "packs/mashiro",
+        "hash": "sha256-Objp32VeiTD7hJsTpUTH5BMM7SrEVmWwmn9Xs0/jS1E="
+    },
+    "menhera": {
+        "url": "https://emoji-repo.absturztau.be/repo/menhera.zip",
+        "zip_path": "download/menhera.zip",
+        "pack_path": "packs/menhera",
+        "hash": "sha256-2PvBKnnQxAE/9t9oiSmK1gGgLWpi3UAIYvZoTQebp7M="
+    },
+    "mikoto": {
+        "url": "https://emoji-repo.absturztau.be/repo/mikoto.zip",
+        "zip_path": "download/mikoto.zip",
+        "pack_path": "packs/mikoto",
+        "hash": "sha256-Zmf3LYv1nIqebweQ9aDBFoMJ0q0GSMu+s6/xx4qZIfI="
+    },
+    "nekomimi_girl_emoji": {
+        "url": "https://emoji-repo.absturztau.be/repo/nekomimi_girl_emoji.zip",
+        "zip_path": "download/nekomimi_girl_emoji.zip",
+        "pack_path": "packs/nekomimi_girl_emoji",
+        "hash": "sha256-jRIAF5vk4ccptclrxZA0+w21/yzNGTS4GCIaR8GDOmE="
+    },
+    "neocat": {
+        "url": "https://volpeon.ink/emojis/neocat/neocat.zip",
+        "zip_path": "download/neocat.zip",
+        "pack_path": "packs/neocat",
+        "hash": "sha256-51k0BRleFRk9vtNeTEDd9sduvvJdDfhSeGZH+UqRTOA="
+    },
+    "neofox": {
+        "url": "https://volpeon.ink/emojis/neofox/neofox.zip",
+        "zip_path": "download/neofox.zip",
+        "pack_path": "packs/neofox",
+        "hash": "sha256-ifSD0zs3PKMvvo2WeothbiPvzXZvhSgd3RPxBMvbAf0="
+    },
+    "pony": {
+        "url": "https://emoji-repo.absturztau.be/repo/pony.zip",
+        "zip_path": "download/pony.zip",
+        "pack_path": "packs/pony",
+        "hash": "sha256-xCcVrC8Bk19O8Ay760c3qEx/Kb6jDIA9Efp0u9TVRW8="
+    },
+    "queercats": {
+        "url": "https://emoji-repo.absturztau.be/repo/queercats.zip",
+        "zip_path": "download/queercats.zip",
+        "pack_path": "packs/queercats",
+        "hash": "sha256-ByoHNKXVidpE6hKTN3FbLYeG5vFLACUOfoYDPduS5Kw="
+    },
+    "rooms": {
+        "url": "https://git.pleroma.social/pleroma/emoji-index/-/raw/master/packs/rooms.zip",
+        "zip_path": "download/rooms.zip",
+        "pack_path": "packs/rooms",
+        "hash": "sha256-slpJWsBjdJg3MZBw3GJPfYTWFiz/Y3ILupv9qoWuGkY="
+    },
+    "screws": {
+        "url": "https://emoji-repo.absturztau.be/repo/screws.zip",
+        "zip_path": "download/screws.zip",
+        "pack_path": "packs/screws",
+        "hash": "sha256-8X6VkKUOWEsWmyOH9nb+KNDPjM0Uugy3k16u0g5WjRA="
+    },
+    "senko": {
+        "url": "https://emoji-repo.absturztau.be/repo/senko.zip",
+        "zip_path": "download/senko.zip",
+        "pack_path": "packs/senko",
+        "hash": "sha256-DHGi6zV6xJEPHUj/kzlnuvSvM2qbyHrq5B5wBgdIZFE="
+    },
+    "solarsystem": {
+        "url": "https://emoji-repo.absturztau.be/repo/solarsystem.zip",
+        "zip_path": "download/solarsystem.zip",
+        "pack_path": "packs/solarsystem",
+        "hash": "sha256-DQDNJfFh8CXmM7wEigQTy92Y5skUWVDWRZvmWKcD0DQ="
+    },
+    "spinny_blobcats": {
+        "url": "https://emoji-repo.absturztau.be/repo/spinny_blobcats.zip",
+        "zip_path": "download/spinny_blobcats.zip",
+        "pack_path": "packs/spinny_blobcats",
+        "hash": "sha256-CTXyKADtMGAsx3O2GfdT+6nyTW16PV99/zaFtMVFU6o="
+    },
+    "spinny_blobfoxes": {
+        "url": "https://emoji-repo.absturztau.be/repo/spinny_blobfoxes.zip",
+        "zip_path": "download/spinny_blobfoxes.zip",
+        "pack_path": "packs/spinny_blobfoxes",
+        "hash": "sha256-w5uU2zdU1bzbwaFFDG0Adyyrv3qQVerhtUN+aVlt5OY="
+    },
+    "sushi": {
+        "url": "https://emoji-repo.absturztau.be/repo/sushi.zip",
+        "zip_path": "download/sushi.zip",
+        "pack_path": "packs/sushi",
+        "hash": "sha256-wtBJjq8MRMtPbq4/SOFpATkMuhPKg1j4Dbj6WY099Z8="
+    },
+    "win3": {
+        "url": "https://emoji-repo.absturztau.be/repo/win3.zip",
+        "zip_path": "download/win3.zip",
+        "pack_path": "packs/win3",
+        "hash": "sha256-GjR2UbyUBgvmlmFD+awuiXeJiyufWZF6mc80GxXRRyU="
+    },
+    "zerotwo": {
+        "url": "https://emoji-repo.absturztau.be/repo/zerotwo.zip",
+        "zip_path": "download/zerotwo.zip",
+        "pack_path": "packs/zerotwo",
+        "hash": "sha256-sE2cRrfVmf0QPtPfp9FI2y689T4Z9cLUSLsDkj4jm1E="
+    }
+}

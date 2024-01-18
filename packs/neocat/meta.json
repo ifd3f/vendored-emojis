@@ -1,0 +1,2527 @@
+{
+  "metaVersion": 2,
+  "host": "is-a.wyvern.rip",
+  "exportedAt": "2023-12-25T21:13:04Z",
+  "emojis": [
+    {
+      "downloaded": true,
+      "fileName": "neocat_0_0_256.png",
+      "emoji": {
+        "name": "neocat_0_0",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_256.png",
+      "emoji": {
+        "name": "neocat",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_3c_256.png",
+      "emoji": {
+        "name": "neocat_3c",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_amogus_256.png",
+      "emoji": {
+        "name": "neocat_amogus",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_angel_256.png",
+      "emoji": {
+        "name": "neocat_angel",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_angel_pleading_256.png",
+      "emoji": {
+        "name": "neocat_angel_pleading",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_angry_256.png",
+      "emoji": {
+        "name": "neocat_angry",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_approve_256.png",
+      "emoji": {
+        "name": "neocat_approve",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_astronaut_256.png",
+      "emoji": {
+        "name": "neocat_astronaut",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_astronaut_gun_256.png",
+      "emoji": {
+        "name": "neocat_astronaut_gun",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_aww_256.png",
+      "emoji": {
+        "name": "neocat_aww",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_baa_256.png",
+      "emoji": {
+        "name": "neocat_baa",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_blank_256.png",
+      "emoji": {
+        "name": "neocat_blank",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_blep_256.png",
+      "emoji": {
+        "name": "neocat_blep",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_blush_256.png",
+      "emoji": {
+        "name": "neocat_blush",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_blush_hide_256.png",
+      "emoji": {
+        "name": "neocat_blush_hide",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_bongo_down_256.png",
+      "emoji": {
+        "name": "neocat_bongo_down",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_bongo_up_256.png",
+      "emoji": {
+        "name": "neocat_bongo_up",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_book_256.png",
+      "emoji": {
+        "name": "neocat_book",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_book_owo_256.png",
+      "emoji": {
+        "name": "neocat_book_owo",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_boop_256.png",
+      "emoji": {
+        "name": "neocat_boop",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_boop_blep_256.png",
+      "emoji": {
+        "name": "neocat_boop_blep",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_boop_blush_256.png",
+      "emoji": {
+        "name": "neocat_boop_blush",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_boop_cute_256.png",
+      "emoji": {
+        "name": "neocat_boop_cute",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_boop_googly_256.png",
+      "emoji": {
+        "name": "neocat_boop_googly",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_boop_happy_256.png",
+      "emoji": {
+        "name": "neocat_boop_happy",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_boop_nervous_256.png",
+      "emoji": {
+        "name": "neocat_boop_nervous",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_boop_owo_256.png",
+      "emoji": {
+        "name": "neocat_boop_owo",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_boop_woozy_256.png",
+      "emoji": {
+        "name": "neocat_boop_woozy",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_bottom_256.png",
+      "emoji": {
+        "name": "neocat_bottom",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_box_256.png",
+      "emoji": {
+        "name": "neocat_box",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_catmode_256.png",
+      "emoji": {
+        "name": "neocat_catmode",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_cofe_256.png",
+      "emoji": {
+        "name": "neocat_cofe",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_comfy_256.png",
+      "emoji": {
+        "name": "neocat_comfy",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_comfy_happy_256.png",
+      "emoji": {
+        "name": "neocat_comfy_happy",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_comfy_mug_256.png",
+      "emoji": {
+        "name": "neocat_comfy_mug",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_comfy_sip_256.png",
+      "emoji": {
+        "name": "neocat_comfy_sip",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_comfy__w__256.png",
+      "emoji": {
+        "name": "neocat_comfy__w_",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_confused_256.png",
+      "emoji": {
+        "name": "neocat_confused",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_cool_256.png",
+      "emoji": {
+        "name": "neocat_cool",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_cool_fingerguns_256.png",
+      "emoji": {
+        "name": "neocat_cool_fingerguns",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_cry_256.png",
+      "emoji": {
+        "name": "neocat_cry",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_cry_loud_256.png",
+      "emoji": {
+        "name": "neocat_cry_loud",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_cute_256.png",
+      "emoji": {
+        "name": "neocat_cute",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_cute_reach_256.png",
+      "emoji": {
+        "name": "neocat_cute_reach",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_devil_256.png",
+      "emoji": {
+        "name": "neocat_devil",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_dizzy_256.png",
+      "emoji": {
+        "name": "neocat_dizzy",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_drowsy_256.png",
+      "emoji": {
+        "name": "neocat_drowsy",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_evil_256.png",
+      "emoji": {
+        "name": "neocat_evil",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_evil_3c_256.png",
+      "emoji": {
+        "name": "neocat_evil_3c",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_facepalm_256.png",
+      "emoji": {
+        "name": "neocat_facepalm",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_fingerguns_256.png",
+      "emoji": {
+        "name": "neocat_fingerguns",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_flag_ace_256.png",
+      "emoji": {
+        "name": "neocat_flag_ace",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_flag_agender_256.png",
+      "emoji": {
+        "name": "neocat_flag_agender",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_flag_ambiamorous_256.png",
+      "emoji": {
+        "name": "neocat_flag_ambiamorous",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_flag_androgyne_256.png",
+      "emoji": {
+        "name": "neocat_flag_androgyne",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_flag_aro_256.png",
+      "emoji": {
+        "name": "neocat_flag_aro",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_flag_aroflux_256.png",
+      "emoji": {
+        "name": "neocat_flag_aroflux",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_flag_bi_256.png",
+      "emoji": {
+        "name": "neocat_flag_bi",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_flag_bigender_256.png",
+      "emoji": {
+        "name": "neocat_flag_bigender",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_flag_demiace_256.png",
+      "emoji": {
+        "name": "neocat_flag_demiace",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_flag_demiaro_256.png",
+      "emoji": {
+        "name": "neocat_flag_demiaro",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_flag_demiflux_256.png",
+      "emoji": {
+        "name": "neocat_flag_demiflux",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_flag_demigirl_256.png",
+      "emoji": {
+        "name": "neocat_flag_demigirl",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_flag_demiguy_256.png",
+      "emoji": {
+        "name": "neocat_flag_demiguy",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_flag_demilesbian_256.png",
+      "emoji": {
+        "name": "neocat_flag_demilesbian",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_flag_deminb_256.png",
+      "emoji": {
+        "name": "neocat_flag_deminb",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_flag_disabled_256.png",
+      "emoji": {
+        "name": "neocat_flag_disabled",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_flag_finsexual_256.png",
+      "emoji": {
+        "name": "neocat_flag_finsexual",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_flag_gay_256.png",
+      "emoji": {
+        "name": "neocat_flag_gay",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_flag_genderfluid_256.png",
+      "emoji": {
+        "name": "neocat_flag_genderfluid",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_flag_intersex_256.png",
+      "emoji": {
+        "name": "neocat_flag_intersex",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_flag_lesbian_256.png",
+      "emoji": {
+        "name": "neocat_flag_lesbian",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_flag_nb_256.png",
+      "emoji": {
+        "name": "neocat_flag_nb",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_flag_pan_256.png",
+      "emoji": {
+        "name": "neocat_flag_pan",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_flag_plural_256.png",
+      "emoji": {
+        "name": "neocat_flag_plural",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_flag_polyam_256.png",
+      "emoji": {
+        "name": "neocat_flag_polyam",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_flag_salmacian_256.png",
+      "emoji": {
+        "name": "neocat_flag_salmacian",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_flag_sapphic_256.png",
+      "emoji": {
+        "name": "neocat_flag_sapphic",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_flag_trans_256.png",
+      "emoji": {
+        "name": "neocat_flag_trans",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_floof_256.png",
+      "emoji": {
+        "name": "neocat_floof",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_floof_angel_256.png",
+      "emoji": {
+        "name": "neocat_floof_angel",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_floof_cute_256.png",
+      "emoji": {
+        "name": "neocat_floof_cute",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_floof_devil_256.png",
+      "emoji": {
+        "name": "neocat_floof_devil",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_floof_happy_256.png",
+      "emoji": {
+        "name": "neocat_floof_happy",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_floof_mug_256.png",
+      "emoji": {
+        "name": "neocat_floof_mug",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_floof_owo_256.png",
+      "emoji": {
+        "name": "neocat_floof_owo",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_floof_reach_256.png",
+      "emoji": {
+        "name": "neocat_floof_reach",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_floof_sad_256.png",
+      "emoji": {
+        "name": "neocat_floof_sad",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_floof_sad_reach_256.png",
+      "emoji": {
+        "name": "neocat_floof_sad_reach",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_floof__w__256.png",
+      "emoji": {
+        "name": "neocat_floof__w_",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_flop_256.png",
+      "emoji": {
+        "name": "neocat_flop",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_flop_blep_256.png",
+      "emoji": {
+        "name": "neocat_flop_blep",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_flop_happy_256.png",
+      "emoji": {
+        "name": "neocat_flop_happy",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_flop_sleep_256.png",
+      "emoji": {
+        "name": "neocat_flop_sleep",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_flop__w__256.png",
+      "emoji": {
+        "name": "neocat_flop__w_",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_flush_256.png",
+      "emoji": {
+        "name": "neocat_flush",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_foxmask_256.png",
+      "emoji": {
+        "name": "neocat_foxmask",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_glare_256.png",
+      "emoji": {
+        "name": "neocat_glare",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_glare_sob_256.png",
+      "emoji": {
+        "name": "neocat_glare_sob",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_glasses_256.png",
+      "emoji": {
+        "name": "neocat_glasses",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_googly_256.png",
+      "emoji": {
+        "name": "neocat_googly",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_googly_blep_256.png",
+      "emoji": {
+        "name": "neocat_googly_blep",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_googly_drool_256.png",
+      "emoji": {
+        "name": "neocat_googly_drool",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_googly_shocked_256.png",
+      "emoji": {
+        "name": "neocat_googly_shocked",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_googly_woozy_256.png",
+      "emoji": {
+        "name": "neocat_googly_woozy",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_gun_256.png",
+      "emoji": {
+        "name": "neocat_gun",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_happy_256.png",
+      "emoji": {
+        "name": "neocat_happy",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_happy_blep_256.png",
+      "emoji": {
+        "name": "neocat_happy_blep",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_heart_256.png",
+      "emoji": {
+        "name": "neocat_heart",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_hug_256.png",
+      "emoji": {
+        "name": "neocat_hug",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_hug_blob_256.png",
+      "emoji": {
+        "name": "neocat_hug_blob",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_hug_blob_heart_256.png",
+      "emoji": {
+        "name": "neocat_hug_blob_heart",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_hug_blob_sad_256.png",
+      "emoji": {
+        "name": "neocat_hug_blob_sad",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_hug_bun_256.png",
+      "emoji": {
+        "name": "neocat_hug_bun",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_hug_bun_heart_256.png",
+      "emoji": {
+        "name": "neocat_hug_bun_heart",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_hug_bun_sad_256.png",
+      "emoji": {
+        "name": "neocat_hug_bun_sad",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_hug_dragn_256.png",
+      "emoji": {
+        "name": "neocat_hug_dragn",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_hug_dragn_alt_256.png",
+      "emoji": {
+        "name": "neocat_hug_dragn_alt",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_hug_dragn_heart_256.png",
+      "emoji": {
+        "name": "neocat_hug_dragn_heart",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_hug_dragn_sad_256.png",
+      "emoji": {
+        "name": "neocat_hug_dragn_sad",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_hug_dragn_sad_alt_256.png",
+      "emoji": {
+        "name": "neocat_hug_dragn_sad_alt",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_hug_duck_256.png",
+      "emoji": {
+        "name": "neocat_hug_duck",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_hug_duck_heart_256.png",
+      "emoji": {
+        "name": "neocat_hug_duck_heart",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_hug_duck_sad_256.png",
+      "emoji": {
+        "name": "neocat_hug_duck_sad",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_hug_fox_256.png",
+      "emoji": {
+        "name": "neocat_hug_fox",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_hug_fox_heart_256.png",
+      "emoji": {
+        "name": "neocat_hug_fox_heart",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_hug_fox_sad_256.png",
+      "emoji": {
+        "name": "neocat_hug_fox_sad",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_hug_haj_256.png",
+      "emoji": {
+        "name": "neocat_hug_haj",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_hug_haj_heart_256.png",
+      "emoji": {
+        "name": "neocat_hug_haj_heart",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_hug_haj_sad_256.png",
+      "emoji": {
+        "name": "neocat_hug_haj_sad",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_hug_heart_256.png",
+      "emoji": {
+        "name": "neocat_hug_heart",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_hug_sad_256.png",
+      "emoji": {
+        "name": "neocat_hug_sad",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_hyper_256.png",
+      "emoji": {
+        "name": "neocat_hyper",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_kirby_256.png",
+      "emoji": {
+        "name": "neocat_kirby",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_kirby_succ_256.png",
+      "emoji": {
+        "name": "neocat_kirby_succ",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_kisser_256.png",
+      "emoji": {
+        "name": "neocat_kisser",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_knife_256.png",
+      "emoji": {
+        "name": "neocat_knife",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_knives_256.png",
+      "emoji": {
+        "name": "neocat_knives",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_laptop_256.png",
+      "emoji": {
+        "name": "neocat_laptop",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_laptop_notice_256.png",
+      "emoji": {
+        "name": "neocat_laptop_notice",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_laptop_owo_256.png",
+      "emoji": {
+        "name": "neocat_laptop_owo",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_laugh_256.png",
+      "emoji": {
+        "name": "neocat_laugh",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_laugh_nervous_256.png",
+      "emoji": {
+        "name": "neocat_laugh_nervous",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_laugh_sweat_256.png",
+      "emoji": {
+        "name": "neocat_laugh_sweat",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_laugh_tears_256.png",
+      "emoji": {
+        "name": "neocat_laugh_tears",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_lul_256.png",
+      "emoji": {
+        "name": "neocat_lul",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_magnify_256.png",
+      "emoji": {
+        "name": "neocat_magnify",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_melt_2_256.png",
+      "emoji": {
+        "name": "neocat_melt_2",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_melt_256.png",
+      "emoji": {
+        "name": "neocat_melt",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_melt_3_256.png",
+      "emoji": {
+        "name": "neocat_melt_3",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_melt_blep_256.png",
+      "emoji": {
+        "name": "neocat_melt_blep",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_melt_blush_256.png",
+      "emoji": {
+        "name": "neocat_melt_blush",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_melt_happy_256.png",
+      "emoji": {
+        "name": "neocat_melt_happy",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_melt_reach_256.png",
+      "emoji": {
+        "name": "neocat_melt_reach",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_melt_sob_256.png",
+      "emoji": {
+        "name": "neocat_melt_sob",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_melt_sob_heart_256.png",
+      "emoji": {
+        "name": "neocat_melt_sob_heart",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_mug_256.png",
+      "emoji": {
+        "name": "neocat_mug",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_mug_drink_256.png",
+      "emoji": {
+        "name": "neocat_mug_drink",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_mug_owo_256.png",
+      "emoji": {
+        "name": "neocat_mug_owo",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_mug__w__256.png",
+      "emoji": {
+        "name": "neocat_mug__w_",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_nervous_256.png",
+      "emoji": {
+        "name": "neocat_nervous",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_nom_blob_256.png",
+      "emoji": {
+        "name": "neocat_nom_blob",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_nom_blob_nervous_256.png",
+      "emoji": {
+        "name": "neocat_nom_blob_nervous",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_nom_bread_256.png",
+      "emoji": {
+        "name": "neocat_nom_bread",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_nom_bun_256.png",
+      "emoji": {
+        "name": "neocat_nom_bun",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_nom_bun_nervous_256.png",
+      "emoji": {
+        "name": "neocat_nom_bun_nervous",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_nom_burger_256.png",
+      "emoji": {
+        "name": "neocat_nom_burger",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_nom_cat_256.png",
+      "emoji": {
+        "name": "neocat_nom_cat",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_nom_cat_nervous_256.png",
+      "emoji": {
+        "name": "neocat_nom_cat_nervous",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_nom_cookie_256.png",
+      "emoji": {
+        "name": "neocat_nom_cookie",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_nom_donut_256.png",
+      "emoji": {
+        "name": "neocat_nom_donut",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_nom_dragn_256.png",
+      "emoji": {
+        "name": "neocat_nom_dragn",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_nom_dragn_nervous_256.png",
+      "emoji": {
+        "name": "neocat_nom_dragn_nervous",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_nom_egg_256.png",
+      "emoji": {
+        "name": "neocat_nom_egg",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_nom_fox_256.png",
+      "emoji": {
+        "name": "neocat_nom_fox",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_nom_fox_nervous_256.png",
+      "emoji": {
+        "name": "neocat_nom_fox_nervous",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_nom_haj_256.png",
+      "emoji": {
+        "name": "neocat_nom_haj",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_nom_haj_nervous_256.png",
+      "emoji": {
+        "name": "neocat_nom_haj_nervous",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_nom_melon_256.png",
+      "emoji": {
+        "name": "neocat_nom_melon",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_nom_pita_256.png",
+      "emoji": {
+        "name": "neocat_nom_pita",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_nom_pizza_256.png",
+      "emoji": {
+        "name": "neocat_nom_pizza",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_nom_toblerone_256.png",
+      "emoji": {
+        "name": "neocat_nom_toblerone",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_nom_verified_256.png",
+      "emoji": {
+        "name": "neocat_nom_verified",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_nom_waffle_256.png",
+      "emoji": {
+        "name": "neocat_nom_waffle",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_notice_256.png",
+      "emoji": {
+        "name": "neocat_notice",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_o_o_256.png",
+      "emoji": {
+        "name": "neocat_o_o",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_owo_256.png",
+      "emoji": {
+        "name": "neocat_owo",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_owo_blep_256.png",
+      "emoji": {
+        "name": "neocat_owo_blep",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_pat_256.png",
+      "emoji": {
+        "name": "neocat_pat",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_pat_floof_256.png",
+      "emoji": {
+        "name": "neocat_pat_floof",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_pat_flop_256.png",
+      "emoji": {
+        "name": "neocat_pat_flop",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_pat_googly_256.png",
+      "emoji": {
+        "name": "neocat_pat_googly",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_pat_happy_256.png",
+      "emoji": {
+        "name": "neocat_pat_happy",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_pat_sad_256.png",
+      "emoji": {
+        "name": "neocat_pat_sad",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_pat_sob_256.png",
+      "emoji": {
+        "name": "neocat_pat_sob",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_pat_up_256.png",
+      "emoji": {
+        "name": "neocat_pat_up",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_pat_woozy_256.png",
+      "emoji": {
+        "name": "neocat_pat_woozy",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_peek_256.png",
+      "emoji": {
+        "name": "neocat_peek",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_peek_bread_256.png",
+      "emoji": {
+        "name": "neocat_peek_bread",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_peek_comfy_256.png",
+      "emoji": {
+        "name": "neocat_peek_comfy",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_peek_knife_256.png",
+      "emoji": {
+        "name": "neocat_peek_knife",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_peek_owo_256.png",
+      "emoji": {
+        "name": "neocat_peek_owo",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_pensive_256.png",
+      "emoji": {
+        "name": "neocat_pensive",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_phone_256.png",
+      "emoji": {
+        "name": "neocat_phone",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_pleading_256.png",
+      "emoji": {
+        "name": "neocat_pleading",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_pleading_reach_256.png",
+      "emoji": {
+        "name": "neocat_pleading_reach",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_police_256.png",
+      "emoji": {
+        "name": "neocat_police",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_pout_256.png",
+      "emoji": {
+        "name": "neocat_pout",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_rainbow_256.png",
+      "emoji": {
+        "name": "neocat_rainbow",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_reach_256.png",
+      "emoji": {
+        "name": "neocat_reach",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_reach_drool_256.png",
+      "emoji": {
+        "name": "neocat_reach_drool",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_reject_256.png",
+      "emoji": {
+        "name": "neocat_reject",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_sad_256.png",
+      "emoji": {
+        "name": "neocat_sad",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_sad_reach_256.png",
+      "emoji": {
+        "name": "neocat_sad_reach",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_santa_256.png",
+      "emoji": {
+        "name": "neocat_santa",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_science_256.png",
+      "emoji": {
+        "name": "neocat_science",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_scream_256.png",
+      "emoji": {
+        "name": "neocat_scream",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_scream_angry_256.png",
+      "emoji": {
+        "name": "neocat_scream_angry",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_scream_scared_256.png",
+      "emoji": {
+        "name": "neocat_scream_scared",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_scream_stare_256.png",
+      "emoji": {
+        "name": "neocat_scream_stare",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_shocked_256.png",
+      "emoji": {
+        "name": "neocat_shocked",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_shy_256.png",
+      "emoji": {
+        "name": "neocat_shy",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_sign_aaa_256.png",
+      "emoji": {
+        "name": "neocat_sign_aaa",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_sign_no_256.png",
+      "emoji": {
+        "name": "neocat_sign_no",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_sign_nya_256.png",
+      "emoji": {
+        "name": "neocat_sign_nya",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_sign_thx_256.png",
+      "emoji": {
+        "name": "neocat_sign_thx",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_sign_yes_256.png",
+      "emoji": {
+        "name": "neocat_sign_yes",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_sign_yip_256.png",
+      "emoji": {
+        "name": "neocat_sign_yip",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_sip_256.png",
+      "emoji": {
+        "name": "neocat_sip",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_sip_glare_256.png",
+      "emoji": {
+        "name": "neocat_sip_glare",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_sip_nervous_256.png",
+      "emoji": {
+        "name": "neocat_sip_nervous",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_sip_owo_256.png",
+      "emoji": {
+        "name": "neocat_sip_owo",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_smol_256.png",
+      "emoji": {
+        "name": "neocat_smol",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_smug_256.png",
+      "emoji": {
+        "name": "neocat_smug",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_snuggle_256.png",
+      "emoji": {
+        "name": "neocat_snuggle",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_snuggle_fox_256.png",
+      "emoji": {
+        "name": "neocat_snuggle_fox",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_sob_256.png",
+      "emoji": {
+        "name": "neocat_sob",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_solder_256.png",
+      "emoji": {
+        "name": "neocat_solder",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_solder_googly_256.png",
+      "emoji": {
+        "name": "neocat_solder_googly",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_stretch_dl_256.png",
+      "emoji": {
+        "name": "neocat_stretch_dl",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_stretch_down_256.png",
+      "emoji": {
+        "name": "neocat_stretch_down",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_stretch_down_end_256.png",
+      "emoji": {
+        "name": "neocat_stretch_down_end",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_stretch_dr_256.png",
+      "emoji": {
+        "name": "neocat_stretch_dr",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_stretch_h_256.png",
+      "emoji": {
+        "name": "neocat_stretch_h",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_stretch_left_256.png",
+      "emoji": {
+        "name": "neocat_stretch_left",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_stretch_right_256.png",
+      "emoji": {
+        "name": "neocat_stretch_right",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_stretch_ul_256.png",
+      "emoji": {
+        "name": "neocat_stretch_ul",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_stretch_up_256.png",
+      "emoji": {
+        "name": "neocat_stretch_up",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_stretch_ur_256.png",
+      "emoji": {
+        "name": "neocat_stretch_ur",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_stretch_v_256.png",
+      "emoji": {
+        "name": "neocat_stretch_v",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_surprised_256.png",
+      "emoji": {
+        "name": "neocat_surprised",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_surprised_pika_256.png",
+      "emoji": {
+        "name": "neocat_surprised_pika",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_sweat_256.png",
+      "emoji": {
+        "name": "neocat_sweat",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_thief_256.png",
+      "emoji": {
+        "name": "neocat_thief",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_think_256.png",
+      "emoji": {
+        "name": "neocat_think",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_think_anime_256.png",
+      "emoji": {
+        "name": "neocat_think_anime",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_think_cool_256.png",
+      "emoji": {
+        "name": "neocat_think_cool",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_think_googly_256.png",
+      "emoji": {
+        "name": "neocat_think_googly",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_thinking_256.png",
+      "emoji": {
+        "name": "neocat_thinking",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_think_owo_256.png",
+      "emoji": {
+        "name": "neocat_think_owo",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_think_woozy_256.png",
+      "emoji": {
+        "name": "neocat_think_woozy",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_thonk_256.png",
+      "emoji": {
+        "name": "neocat_thonk",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_thumbsdown_256.png",
+      "emoji": {
+        "name": "neocat_thumbsdown",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_thumbsup_256.png",
+      "emoji": {
+        "name": "neocat_thumbsup",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_up_256.png",
+      "emoji": {
+        "name": "neocat_up",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_up_paws_256.png",
+      "emoji": {
+        "name": "neocat_up_paws",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_up_sleep_256.png",
+      "emoji": {
+        "name": "neocat_up_sleep",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_up__w__256.png",
+      "emoji": {
+        "name": "neocat_up__w_",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_uwu_256.png",
+      "emoji": {
+        "name": "neocat_uwu",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_verified_256.png",
+      "emoji": {
+        "name": "neocat_verified",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_vr_256.png",
+      "emoji": {
+        "name": "neocat_vr",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat__w__256.png",
+      "emoji": {
+        "name": "neocat__w_",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_what_256.png",
+      "emoji": {
+        "name": "neocat_what",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_wink_256.png",
+      "emoji": {
+        "name": "neocat_wink",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_wink_blep_256.png",
+      "emoji": {
+        "name": "neocat_wink_blep",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_woozy_256.png",
+      "emoji": {
+        "name": "neocat_woozy",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_x_x_256.png",
+      "emoji": {
+        "name": "neocat_x_x",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_yeet_256.png",
+      "emoji": {
+        "name": "neocat_yeet",
+        "category": "neocat",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neocat_yell_256.png",
+      "emoji": {
+        "name": "neocat_yell",
+        "category": "neocat",
+        "aliases": []
+      }
+    }
+  ]
+}
